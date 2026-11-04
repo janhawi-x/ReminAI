@@ -27,3 +27,8 @@ uploads/
 *.log
 .vscode/
 .idea/
+
+# Local documentation
+/IMPLEMENTATION_STATUS.md
+/OPENFREE_MAP_INTEGRATION.md
+/QUICK_START.md
