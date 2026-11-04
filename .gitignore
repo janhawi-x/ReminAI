@@ -1,0 +1,29 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/firebase-service-account.json
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+dist/
+.next/
+
+# Local databases and patient data
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/

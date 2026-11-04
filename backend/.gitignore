@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+*.firebase-adminsdk-*.json
+reminai.db
+uploads/
+tts_output/
+face_embeddings/
+__pycache__/
+app/**/__pycache__/
